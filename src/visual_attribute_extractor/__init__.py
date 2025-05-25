@@ -1,0 +1,1 @@
+# This file initializes the visual_attribute_extractor module.
